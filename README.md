@@ -20,7 +20,7 @@ colorSensor.getLightEvent(&lightEvent);
 
 This driver was written as an exercise, it can serve as a baseline to work with this sensor but it's neither tested nor complete.
 
-These are a few suggestions on how to improve the drive, if you plan to use it:
+These are a few suggestions on how to improve the driver, if you plan to use it:
 - measurement time should be configured depending on desired reading frequency
 - gain should be automatically adjusted to provide best accuracy and avoid saturation
 - color components should probably be compensated based on material and channel sensitivity
